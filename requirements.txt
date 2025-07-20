@@ -3,3 +3,12 @@ pandas==2.0.3
 urllib3==2.0.5
 tqdm==4.66.1
 loguru==0.7.2
+
+
+# Download the latest stable version (adjust version if needed)
+wget https://msedgedriver.azureedge.net/LATEST_STABLE -O msedge_version.txt
+MSEDGE_VERSION=$(cat msedge_version.txt)
+wget "https://msedgedriver.azureedge.net/$MSEDGE_VERSION/edgedriver_linux64.zip" -O msedgedriver.zip
+unzip msedgedriver.zip
+sudo mv msedgedriver /usr/local/bin/
+sudo chmod +x /usr/local/bin/msedgedriver
