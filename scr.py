@@ -224,7 +224,7 @@ def main():
         os.remove(args.output)
         
     if not subset:
-    logging.warning('No valid conference IDs found in the selected index range.')
+        logging.warning('No valid conference IDs found in the selected index range.')
     return
 
     if args.parallel:
