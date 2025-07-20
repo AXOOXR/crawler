@@ -222,6 +222,10 @@ def main():
 
     if os.path.exists(args.output):
         os.remove(args.output)
+        
+    if not subset:
+    logging.warning('No valid conference IDs found in the selected index range.')
+    return
 
     if args.parallel:
         with ThreadPoolExecutor(max_workers=args.workers) as pool:
