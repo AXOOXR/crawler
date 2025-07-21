@@ -1,0 +1,145 @@
+2025-07-21 08:58:22,088 - INFO - Initialized scraper with start=1200, end=1210
+2025-07-21 08:58:22,088 - INFO - Output will be saved to: civilica_optimized_output_1200_1210.csv
+2025-07-21 08:58:22,089 - INFO - Failed URLs will be logged to: failed_urls_1200_1210.csv
+2025-07-21 08:59:04,193 - INFO - Initialized scraper with start=1200, end=1210
+2025-07-21 08:59:04,193 - INFO - Output will be saved to: civilica_optimized_output_1200_1210.csv
+2025-07-21 08:59:04,194 - INFO - Failed URLs will be logged to: failed_urls_1200_1210.csv
+2025-07-21 08:59:04,633 - INFO - Processing 10 conferences from index 1200 to 1210
+2025-07-21 08:59:05,567 - ERROR - Conference page failed: https://civilica.com/l/132992/pgn-1/ - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-07-21 08:59:05,573 - ERROR - Conference page failed: https://civilica.com/l/140849/pgn-1/ - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-07-21 08:59:05,673 - ERROR - Conference page failed: https://civilica.com/l/140846/pgn-1/ - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-07-21 08:59:05,731 - ERROR - Conference page failed: https://civilica.com/l/132788/pgn-1/ - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-07-21 08:59:05,748 - ERROR - Conference page failed: https://civilica.com/l/117086/pgn-1/ - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-07-21 08:59:05,752 - ERROR - Conference page failed: https://civilica.com/l/140845/pgn-1/ - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-07-21 08:59:05,755 - ERROR - Conference page failed: https://civilica.com/l/140848/pgn-1/ - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-07-21 08:59:05,760 - ERROR - Conference page failed: https://civilica.com/l/140847/pgn-1/ - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-07-21 08:59:05,823 - ERROR - Conference page failed: https://civilica.com/l/140844/pgn-1/ - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-07-21 08:59:05,892 - ERROR - Conference page failed: https://civilica.com/l/141247/pgn-1/ - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-07-21 08:59:05,906 - INFO - Saved 10 failed URLs to failed_urls_1200_1210.csv
+2025-07-21 08:59:05,906 - INFO - Scraping completed in 1.71 seconds
+2025-07-21 08:59:05,907 - INFO - Processed 0 articles total
+2025-07-21 08:59:05,907 - INFO - Results saved to civilica_optimized_output_1200_1210.csv
+2025-07-21 09:00:24,940 - INFO - Initialized scraper with start=1200, end=1210
+2025-07-21 09:00:24,940 - INFO - Output will be saved to: civilica_optimized_output_1200_1210.csv
+2025-07-21 09:00:24,941 - INFO - Failed URLs will be logged to: failed_urls_1200_1210.csv
+2025-07-21 09:00:25,242 - INFO - Processing 10 conferences from index 1200 to 1210
+2025-07-21 09:00:34,945 - INFO - Processed 10 articles in 10.00 seconds
+2025-07-21 09:00:35,307 - INFO - Processed 20 articles in 10.37 seconds
+2025-07-21 09:00:35,638 - INFO - Processed 30 articles in 10.70 seconds
+2025-07-21 09:00:36,752 - INFO - Processed 40 articles in 11.81 seconds
+2025-07-21 09:00:37,096 - INFO - Processed 50 articles in 12.16 seconds
+2025-07-21 09:00:37,534 - INFO - Processed 60 articles in 12.59 seconds
+2025-07-21 09:00:37,849 - INFO - Processed 70 articles in 12.91 seconds
+2025-07-21 09:00:38,246 - INFO - Processed 80 articles in 13.31 seconds
+2025-07-21 09:00:38,719 - INFO - Processed 90 articles in 13.78 seconds
+2025-07-21 09:00:39,050 - INFO - Processed 100 articles in 14.11 seconds
+2025-07-21 09:00:39,481 - INFO - Processed 110 articles in 14.54 seconds
+2025-07-21 09:00:39,865 - INFO - Processed 120 articles in 14.92 seconds
+2025-07-21 09:00:40,231 - INFO - Processed 130 articles in 15.29 seconds
+2025-07-21 09:00:40,601 - INFO - Processed 140 articles in 15.66 seconds
+2025-07-21 09:00:41,158 - INFO - Processed 150 articles in 16.22 seconds
+2025-07-21 09:00:41,539 - INFO - Processed 160 articles in 16.60 seconds
+2025-07-21 09:00:41,869 - INFO - Processed 170 articles in 16.93 seconds
+2025-07-21 09:00:42,232 - INFO - Processed 180 articles in 17.29 seconds
+2025-07-21 09:00:42,617 - INFO - Processed 190 articles in 17.68 seconds
+2025-07-21 09:00:43,067 - INFO - Processed 200 articles in 18.13 seconds
+2025-07-21 09:00:43,425 - INFO - Processed 210 articles in 18.48 seconds
+2025-07-21 09:00:43,877 - INFO - Processed 220 articles in 18.94 seconds
+2025-07-21 09:00:44,196 - INFO - Processed 230 articles in 19.26 seconds
+2025-07-21 09:00:44,584 - INFO - Processed 240 articles in 19.64 seconds
+2025-07-21 09:00:44,957 - INFO - Processed 250 articles in 20.02 seconds
+2025-07-21 09:00:45,333 - INFO - Processed 260 articles in 20.39 seconds
+2025-07-21 09:00:45,697 - INFO - Processed 270 articles in 20.76 seconds
+2025-07-21 09:00:46,116 - INFO - Processed 280 articles in 21.18 seconds
+2025-07-21 09:00:46,448 - INFO - Processed 290 articles in 21.51 seconds
+2025-07-21 09:00:46,999 - INFO - Processed 300 articles in 22.06 seconds
+2025-07-21 09:00:47,329 - INFO - Processed 310 articles in 22.39 seconds
+2025-07-21 09:00:47,803 - INFO - Processed 320 articles in 22.86 seconds
+2025-07-21 09:00:48,157 - INFO - Processed 330 articles in 23.22 seconds
+2025-07-21 09:00:48,552 - INFO - Processed 340 articles in 23.61 seconds
+2025-07-21 09:00:48,890 - INFO - Processed 350 articles in 23.95 seconds
+2025-07-21 09:00:49,287 - INFO - Processed 360 articles in 24.35 seconds
+2025-07-21 09:00:49,341 - ERROR - Article failed: https://civilica.com/doc/1912690/ - 
+2025-07-21 09:00:49,502 - INFO - Saved 0 records to civilica_optimized_output_1200_1210.csv
+2025-07-21 09:00:49,787 - INFO - Processed 370 articles in 24.85 seconds
+2025-07-21 09:00:50,212 - INFO - Processed 380 articles in 25.27 seconds
+2025-07-21 09:00:50,552 - INFO - Processed 390 articles in 25.61 seconds
+2025-07-21 09:00:51,016 - INFO - Processed 400 articles in 26.08 seconds
+2025-07-21 09:00:51,357 - INFO - Processed 410 articles in 26.42 seconds
+2025-07-21 09:00:51,889 - INFO - Processed 420 articles in 26.95 seconds
+2025-07-21 09:00:52,282 - INFO - Processed 430 articles in 27.34 seconds
+2025-07-21 09:00:52,638 - ERROR - Article failed: https://civilica.com/doc/1926435/ - 
+2025-07-21 09:00:52,794 - INFO - Processed 440 articles in 27.85 seconds
+2025-07-21 09:00:53,129 - INFO - Processed 450 articles in 28.19 seconds
+2025-07-21 09:00:53,497 - ERROR - Article failed: https://civilica.com/doc/1926432/ - 
+2025-07-21 09:00:53,498 - ERROR - Article failed: https://civilica.com/doc/1926444/ - 
+2025-07-21 09:00:53,499 - ERROR - Article failed: https://civilica.com/doc/1926431/ - 
+2025-07-21 09:00:53,500 - ERROR - Article failed: https://civilica.com/doc/1926413/ - 
+2025-07-21 09:00:53,501 - ERROR - Article failed: https://civilica.com/doc/1926429/ - 
+2025-07-21 09:00:53,502 - ERROR - Article failed: https://civilica.com/doc/1926441/ - 
+2025-07-21 09:00:53,503 - ERROR - Article failed: https://civilica.com/doc/1926440/ - 
+2025-07-21 09:00:53,503 - ERROR - Article failed: https://civilica.com/doc/1926391/ - 
+2025-07-21 09:00:53,503 - ERROR - Article failed: https://civilica.com/doc/1926407/ - 
+2025-07-21 09:00:53,505 - ERROR - Article failed: https://civilica.com/doc/1926412/ - 
+2025-07-21 09:00:53,506 - ERROR - Article failed: https://civilica.com/doc/1926428/ - 
+2025-07-21 09:00:53,712 - INFO - Processed 460 articles in 28.77 seconds
+2025-07-21 09:00:55,252 - ERROR - Article failed: https://civilica.com/doc/1914977/ - Server disconnected
+2025-07-21 09:00:55,349 - INFO - Processed 470 articles in 30.41 seconds
+2025-07-21 09:00:56,318 - INFO - Processed 480 articles in 31.38 seconds
+2025-07-21 09:00:58,212 - INFO - Processed 490 articles in 33.27 seconds
+2025-07-21 09:01:01,258 - INFO - Processed 500 articles in 36.32 seconds
+2025-07-21 09:01:01,623 - INFO - Processed 510 articles in 36.68 seconds
+2025-07-21 09:01:02,017 - INFO - Processed 520 articles in 37.08 seconds
+2025-07-21 09:01:02,788 - INFO - Processed 530 articles in 37.85 seconds
+2025-07-21 09:01:03,165 - INFO - Processed 540 articles in 38.22 seconds
+2025-07-21 09:01:03,589 - INFO - Processed 550 articles in 38.65 seconds
+2025-07-21 09:01:03,925 - INFO - Processed 560 articles in 38.98 seconds
+2025-07-21 09:01:06,927 - INFO - Processed 570 articles in 41.99 seconds
+2025-07-21 09:01:07,292 - INFO - Processed 580 articles in 42.35 seconds
+2025-07-21 09:01:07,738 - INFO - Processed 590 articles in 42.80 seconds
+2025-07-21 09:01:08,069 - INFO - Processed 600 articles in 43.13 seconds
+2025-07-21 09:01:08,423 - INFO - Processed 610 articles in 43.48 seconds
+2025-07-21 09:01:09,030 - INFO - Processed 620 articles in 44.09 seconds
+2025-07-21 09:01:09,430 - INFO - Processed 630 articles in 44.49 seconds
+2025-07-21 09:01:09,775 - INFO - Processed 640 articles in 44.84 seconds
+2025-07-21 09:01:10,185 - INFO - Processed 650 articles in 45.25 seconds
+2025-07-21 09:01:10,561 - INFO - Processed 660 articles in 45.62 seconds
+2025-07-21 09:01:10,971 - INFO - Processed 670 articles in 46.03 seconds
+2025-07-21 09:01:11,266 - INFO - Processed 680 articles in 46.33 seconds
+2025-07-21 09:01:11,405 - INFO - Saved 0 records to civilica_optimized_output_1200_1210.csv
+2025-07-21 09:01:11,748 - INFO - Processed 690 articles in 46.81 seconds
+2025-07-21 09:01:12,060 - INFO - Processed 700 articles in 47.12 seconds
+2025-07-21 09:01:12,428 - INFO - Processed 710 articles in 47.49 seconds
+2025-07-21 09:01:15,970 - INFO - Processed 720 articles in 51.03 seconds
+2025-07-21 09:01:16,670 - INFO - Processed 730 articles in 51.73 seconds
+2025-07-21 09:01:25,505 - INFO - Processed 740 articles in 60.56 seconds
+2025-07-21 09:01:25,901 - INFO - Processed 750 articles in 60.96 seconds
+2025-07-21 09:01:26,321 - INFO - Processed 760 articles in 61.38 seconds
+2025-07-21 09:01:26,722 - INFO - Processed 770 articles in 61.78 seconds
+2025-07-21 09:01:27,024 - INFO - Processed 780 articles in 62.08 seconds
+2025-07-21 09:01:38,665 - INFO - Processed 790 articles in 73.72 seconds
+2025-07-21 09:01:39,055 - INFO - Processed 800 articles in 74.11 seconds
+2025-07-21 09:01:39,458 - INFO - Processed 810 articles in 74.52 seconds
+2025-07-21 09:01:39,746 - INFO - Processed 820 articles in 74.81 seconds
+2025-07-21 09:01:40,135 - INFO - Processed 830 articles in 75.19 seconds
+2025-07-21 09:01:51,875 - INFO - Processed 840 articles in 86.93 seconds
+2025-07-21 09:01:52,399 - INFO - Processed 850 articles in 87.46 seconds
+2025-07-21 09:01:52,761 - INFO - Processed 860 articles in 87.82 seconds
+2025-07-21 09:01:53,181 - INFO - Processed 870 articles in 88.24 seconds
+2025-07-21 09:01:53,512 - INFO - Processed 880 articles in 88.57 seconds
+2025-07-21 09:02:05,652 - INFO - Processed 890 articles in 100.71 seconds
+2025-07-21 09:02:06,047 - INFO - Processed 900 articles in 101.11 seconds
+2025-07-21 09:02:06,446 - INFO - Processed 910 articles in 101.51 seconds
+2025-07-21 09:02:06,761 - INFO - Processed 920 articles in 101.82 seconds
+2025-07-21 09:02:07,111 - INFO - Processed 930 articles in 102.17 seconds
+2025-07-21 09:02:19,347 - INFO - Processed 940 articles in 114.41 seconds
+2025-07-21 09:02:19,739 - INFO - Processed 950 articles in 114.80 seconds
+2025-07-21 09:02:20,127 - INFO - Processed 960 articles in 115.19 seconds
+2025-07-21 09:02:20,504 - INFO - Processed 970 articles in 115.56 seconds
+2025-07-21 09:02:20,799 - INFO - Processed 980 articles in 115.86 seconds
+2025-07-21 09:02:20,988 - INFO - Saved 0 records to civilica_optimized_output_1200_1210.csv
+2025-07-21 09:02:23,488 - INFO - Saved 0 records to civilica_optimized_output_1200_1210.csv
+2025-07-21 09:02:23,492 - INFO - Saved 14 failed URLs to failed_urls_1200_1210.csv
+2025-07-21 09:02:23,492 - INFO - Scraping completed in 118.55 seconds
+2025-07-21 09:02:23,493 - INFO - Processed 988 articles total
+2025-07-21 09:02:23,493 - INFO - Results saved to civilica_optimized_output_1200_1210.csv
