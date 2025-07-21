@@ -78,7 +78,7 @@ def save_partial_results():
 def init_driver() -> webdriver.Edge:
     options = Options()
     if args.headless:
-        options.add_argument('--headless')
+        options.add_argument('--headless=new')
     options.add_argument('--disable-gpu')
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
