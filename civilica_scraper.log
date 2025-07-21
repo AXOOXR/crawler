@@ -143,3 +143,634 @@
 2025-07-21 09:02:23,492 - INFO - Scraping completed in 118.55 seconds
 2025-07-21 09:02:23,493 - INFO - Processed 988 articles total
 2025-07-21 09:02:23,493 - INFO - Results saved to civilica_optimized_output_1200_1210.csv
+2025-07-21 09:33:30,769 - INFO - Initialized scraper with start=1210, end=1220
+2025-07-21 09:33:30,770 - INFO - Output will be saved to: civilica_optimized_output_1210_1220.csv
+2025-07-21 09:33:30,770 - INFO - Failed URLs will be logged to: failed_urls_1210_1220.csv
+2025-07-21 09:33:30,965 - INFO - Processing 10 conferences from index 1210 to 1220
+2025-07-21 09:33:44,870 - ERROR - Article failed: https://civilica.com/doc/1896987/ - 
+2025-07-21 09:33:44,871 - ERROR - Article failed: https://civilica.com/doc/1896981/ - 
+2025-07-21 09:33:44,871 - ERROR - Article failed: https://civilica.com/doc/1896983/ - 
+2025-07-21 09:33:44,871 - ERROR - Article failed: https://civilica.com/doc/1896982/ - 
+2025-07-21 09:33:44,872 - ERROR - Article failed: https://civilica.com/doc/1896988/ - 
+2025-07-21 09:33:44,872 - ERROR - Article failed: https://civilica.com/doc/1896985/ - 
+2025-07-21 09:33:44,872 - ERROR - Article failed: https://civilica.com/doc/1896986/ - 
+2025-07-21 09:33:44,872 - ERROR - Article failed: https://civilica.com/doc/1896978/ - 
+2025-07-21 09:33:44,872 - ERROR - Article failed: https://civilica.com/doc/1896984/ - 
+2025-07-21 09:33:44,872 - ERROR - Article failed: https://civilica.com/doc/1896977/ - 
+2025-07-21 09:33:48,866 - ERROR - Article failed: https://civilica.com/doc/1911128/ - 
+2025-07-21 09:33:48,867 - ERROR - Article failed: https://civilica.com/doc/1911140/ - 
+2025-07-21 09:33:48,868 - ERROR - Article failed: https://civilica.com/doc/1911125/ - 
+2025-07-21 09:33:48,869 - ERROR - Article failed: https://civilica.com/doc/1911124/ - 
+2025-07-21 09:33:48,870 - ERROR - Article failed: https://civilica.com/doc/1911141/ - 
+2025-07-21 09:33:48,871 - ERROR - Article failed: https://civilica.com/doc/1911147/ - 
+2025-07-21 09:33:48,872 - ERROR - Article failed: https://civilica.com/doc/1911127/ - 
+2025-07-21 09:33:48,872 - ERROR - Article failed: https://civilica.com/doc/1922540/ - 
+2025-07-21 09:33:48,873 - ERROR - Article failed: https://civilica.com/doc/1911134/ - 
+2025-07-21 09:33:48,874 - ERROR - Article failed: https://civilica.com/doc/1911144/ - 
+2025-07-21 09:33:48,875 - ERROR - Article failed: https://civilica.com/doc/1922531/ - 
+2025-07-21 09:33:48,876 - ERROR - Article failed: https://civilica.com/doc/1911148/ - 
+2025-07-21 09:33:48,877 - ERROR - Article failed: https://civilica.com/doc/1922533/ - 
+2025-07-21 09:33:48,877 - ERROR - Article failed: https://civilica.com/doc/1922537/ - 
+2025-07-21 09:33:48,878 - ERROR - Article failed: https://civilica.com/doc/1951790/ - 
+2025-07-21 09:33:48,879 - ERROR - Article failed: https://civilica.com/doc/1922541/ - 
+2025-07-21 09:33:48,880 - ERROR - Article failed: https://civilica.com/doc/1922534/ - 
+2025-07-21 09:33:48,881 - ERROR - Article failed: https://civilica.com/doc/1922523/ - 
+2025-07-21 09:33:48,881 - ERROR - Article failed: https://civilica.com/doc/1922518/ - 
+2025-07-21 09:33:48,882 - ERROR - Article failed: https://civilica.com/doc/1922535/ - 
+2025-07-21 09:33:48,882 - ERROR - Article failed: https://civilica.com/doc/1922525/ - 
+2025-07-21 09:33:48,882 - ERROR - Article failed: https://civilica.com/doc/1922532/ - 
+2025-07-21 09:33:48,883 - ERROR - Article failed: https://civilica.com/doc/1922520/ - 
+2025-07-21 09:33:48,883 - ERROR - Article failed: https://civilica.com/doc/1922519/ - 
+2025-07-21 09:33:48,883 - ERROR - Article failed: https://civilica.com/doc/1922522/ - 
+2025-07-21 09:33:48,884 - ERROR - Article failed: https://civilica.com/doc/1911142/ - 
+2025-07-21 09:33:48,884 - ERROR - Article failed: https://civilica.com/doc/1911129/ - 
+2025-07-21 09:33:48,885 - ERROR - Article failed: https://civilica.com/doc/1922524/ - 
+2025-07-21 09:33:48,886 - ERROR - Article failed: https://civilica.com/doc/1922536/ - 
+2025-07-21 09:33:48,886 - ERROR - Article failed: https://civilica.com/doc/1922542/ - 
+2025-07-21 09:33:48,887 - ERROR - Article failed: https://civilica.com/doc/1922543/ - 
+2025-07-21 09:33:48,887 - ERROR - Article failed: https://civilica.com/doc/1922530/ - 
+2025-07-21 09:33:48,888 - ERROR - Article failed: https://civilica.com/doc/1922538/ - 
+2025-07-21 09:33:48,888 - ERROR - Article failed: https://civilica.com/doc/1922539/ - 
+2025-07-21 09:33:48,889 - ERROR - Article failed: https://civilica.com/doc/1922529/ - 
+2025-07-21 09:33:48,890 - ERROR - Article failed: https://civilica.com/doc/1922526/ - 
+2025-07-21 09:33:48,890 - ERROR - Article failed: https://civilica.com/doc/1922517/ - 
+2025-07-21 09:33:48,890 - ERROR - Article failed: https://civilica.com/doc/1922527/ - 
+2025-07-21 09:33:48,890 - ERROR - Article failed: https://civilica.com/doc/1922528/ - 
+2025-07-21 09:33:48,892 - ERROR - Article failed: https://civilica.com/doc/1911146/ - 
+2025-07-21 09:33:48,892 - ERROR - Article failed: https://civilica.com/doc/1911145/ - 
+2025-07-21 09:33:48,893 - ERROR - Article failed: https://civilica.com/doc/1911143/ - 
+2025-07-21 09:33:48,893 - ERROR - Article failed: https://civilica.com/doc/1911135/ - 
+2025-07-21 09:33:48,893 - ERROR - Article failed: https://civilica.com/doc/1955439/ - 
+2025-07-21 09:33:48,893 - ERROR - Article failed: https://civilica.com/doc/1922521/ - 
+2025-07-21 09:33:48,893 - ERROR - Article failed: https://civilica.com/doc/1911149/ - 
+2025-07-21 09:33:48,894 - ERROR - Article failed: https://civilica.com/doc/1911130/ - 
+2025-07-21 09:33:48,894 - ERROR - Article failed: https://civilica.com/doc/1911139/ - 
+2025-07-21 09:33:48,894 - ERROR - Article failed: https://civilica.com/doc/1911123/ - 
+2025-07-21 09:33:48,894 - ERROR - Article failed: https://civilica.com/doc/1911126/ - 
+2025-07-21 09:33:48,894 - ERROR - Article failed: https://civilica.com/doc/1911132/ - 
+2025-07-21 09:33:48,895 - ERROR - Article failed: https://civilica.com/doc/1911137/ - 
+2025-07-21 09:33:48,895 - ERROR - Article failed: https://civilica.com/doc/1911133/ - 
+2025-07-21 09:33:48,895 - ERROR - Article failed: https://civilica.com/doc/1911138/ - 
+2025-07-21 09:33:48,895 - ERROR - Article failed: https://civilica.com/doc/1955438/ - 
+2025-07-21 09:33:48,895 - ERROR - Article failed: https://civilica.com/doc/1911131/ - 
+2025-07-21 09:33:48,895 - ERROR - Article failed: https://civilica.com/doc/1911136/ - 
+2025-07-21 09:33:50,871 - ERROR - Article failed: https://civilica.com/doc/1926251/ - 
+2025-07-21 09:33:50,872 - ERROR - Article failed: https://civilica.com/doc/1926263/ - 
+2025-07-21 09:33:50,872 - ERROR - Article failed: https://civilica.com/doc/1926240/ - 
+2025-07-21 09:33:50,873 - ERROR - Article failed: https://civilica.com/doc/1926229/ - 
+2025-07-21 09:33:50,873 - ERROR - Article failed: https://civilica.com/doc/1926228/ - 
+2025-07-21 09:33:50,874 - ERROR - Article failed: https://civilica.com/doc/1926242/ - 
+2025-07-21 09:33:50,875 - ERROR - Article failed: https://civilica.com/doc/1926236/ - 
+2025-07-21 09:33:50,875 - ERROR - Article failed: https://civilica.com/doc/1926247/ - 
+2025-07-21 09:33:50,875 - ERROR - Article failed: https://civilica.com/doc/1926248/ - 
+2025-07-21 09:33:50,876 - ERROR - Article failed: https://civilica.com/doc/1926233/ - 
+2025-07-21 09:33:50,876 - ERROR - Article failed: https://civilica.com/doc/1926250/ - 
+2025-07-21 09:33:50,877 - ERROR - Article failed: https://civilica.com/doc/1926237/ - 
+2025-07-21 09:33:50,877 - ERROR - Article failed: https://civilica.com/doc/1926244/ - 
+2025-07-21 09:33:50,877 - ERROR - Article failed: https://civilica.com/doc/1926241/ - 
+2025-07-21 09:33:50,877 - ERROR - Article failed: https://civilica.com/doc/1926246/ - 
+2025-07-21 09:33:50,878 - ERROR - Article failed: https://civilica.com/doc/1926232/ - 
+2025-07-21 09:33:50,878 - ERROR - Article failed: https://civilica.com/doc/1926254/ - 
+2025-07-21 09:33:50,878 - ERROR - Article failed: https://civilica.com/doc/1926256/ - 
+2025-07-21 09:33:50,878 - ERROR - Article failed: https://civilica.com/doc/1926234/ - 
+2025-07-21 09:33:50,878 - ERROR - Article failed: https://civilica.com/doc/1926239/ - 
+2025-07-21 09:33:50,879 - ERROR - Article failed: https://civilica.com/doc/1926243/ - 
+2025-07-21 09:33:50,879 - ERROR - Article failed: https://civilica.com/doc/1926227/ - 
+2025-07-21 09:33:50,879 - ERROR - Article failed: https://civilica.com/doc/1926238/ - 
+2025-07-21 09:33:50,880 - ERROR - Article failed: https://civilica.com/doc/1926235/ - 
+2025-07-21 09:33:50,880 - ERROR - Article failed: https://civilica.com/doc/1926231/ - 
+2025-07-21 09:33:50,880 - ERROR - Article failed: https://civilica.com/doc/1926223/ - 
+2025-07-21 09:33:50,880 - ERROR - Article failed: https://civilica.com/doc/1926261/ - 
+2025-07-21 09:33:50,881 - ERROR - Article failed: https://civilica.com/doc/1926252/ - 
+2025-07-21 09:33:50,881 - ERROR - Article failed: https://civilica.com/doc/1926257/ - 
+2025-07-21 09:33:50,881 - ERROR - Article failed: https://civilica.com/doc/1926258/ - 
+2025-07-21 09:33:50,881 - ERROR - Article failed: https://civilica.com/doc/1926222/ - 
+2025-07-21 09:33:50,882 - ERROR - Article failed: https://civilica.com/doc/1926262/ - 
+2025-07-21 09:33:50,882 - ERROR - Article failed: https://civilica.com/doc/1926225/ - 
+2025-07-21 09:33:50,882 - ERROR - Article failed: https://civilica.com/doc/1926224/ - 
+2025-07-21 09:33:50,882 - ERROR - Article failed: https://civilica.com/doc/1926259/ - 
+2025-07-21 09:33:50,883 - ERROR - Article failed: https://civilica.com/doc/1926255/ - 
+2025-07-21 09:33:50,883 - ERROR - Article failed: https://civilica.com/doc/1926226/ - 
+2025-07-21 09:33:50,883 - ERROR - Article failed: https://civilica.com/doc/1926253/ - 
+2025-07-21 09:33:50,884 - ERROR - Article failed: https://civilica.com/doc/1926249/ - 
+2025-07-21 09:33:50,884 - ERROR - Article failed: https://civilica.com/doc/1926260/ - 
+2025-07-21 09:33:50,884 - ERROR - Article failed: https://civilica.com/doc/1926245/ - 
+2025-07-21 09:33:50,884 - ERROR - Article failed: https://civilica.com/doc/1926230/ - 
+2025-07-21 09:33:52,873 - ERROR - Article failed: https://civilica.com/doc/1926388/ - 
+2025-07-21 09:33:52,873 - ERROR - Article failed: https://civilica.com/doc/1926331/ - 
+2025-07-21 09:33:52,874 - ERROR - Article failed: https://civilica.com/doc/1926311/ - 
+2025-07-21 09:33:52,874 - ERROR - Article failed: https://civilica.com/doc/1926352/ - 
+2025-07-21 09:33:52,874 - ERROR - Article failed: https://civilica.com/doc/1926273/ - 
+2025-07-21 09:33:52,874 - ERROR - Article failed: https://civilica.com/doc/1926319/ - 
+2025-07-21 09:33:52,874 - ERROR - Article failed: https://civilica.com/doc/1926340/ - 
+2025-07-21 09:33:52,875 - ERROR - Article failed: https://civilica.com/doc/1926338/ - 
+2025-07-21 09:33:52,875 - ERROR - Article failed: https://civilica.com/doc/1926285/ - 
+2025-07-21 09:33:52,875 - ERROR - Article failed: https://civilica.com/doc/1926272/ - 
+2025-07-21 09:33:52,875 - ERROR - Article failed: https://civilica.com/doc/1926357/ - 
+2025-07-21 09:33:52,876 - ERROR - Article failed: https://civilica.com/doc/1926316/ - 
+2025-07-21 09:33:52,876 - ERROR - Article failed: https://civilica.com/doc/1926343/ - 
+2025-07-21 09:33:52,876 - ERROR - Article failed: https://civilica.com/doc/1926386/ - 
+2025-07-21 09:33:52,876 - ERROR - Article failed: https://civilica.com/doc/1926269/ - 
+2025-07-21 09:33:52,876 - ERROR - Article failed: https://civilica.com/doc/1926370/ - 
+2025-07-21 09:33:52,877 - ERROR - Article failed: https://civilica.com/doc/1926289/ - 
+2025-07-21 09:33:52,877 - ERROR - Article failed: https://civilica.com/doc/1926373/ - 
+2025-07-21 09:33:52,877 - ERROR - Article failed: https://civilica.com/doc/1926296/ - 
+2025-07-21 09:33:52,877 - ERROR - Article failed: https://civilica.com/doc/1926333/ - 
+2025-07-21 09:33:52,878 - ERROR - Article failed: https://civilica.com/doc/1926381/ - 
+2025-07-21 09:33:52,878 - ERROR - Article failed: https://civilica.com/doc/1926278/ - 
+2025-07-21 09:33:52,878 - ERROR - Article failed: https://civilica.com/doc/1926267/ - 
+2025-07-21 09:33:52,878 - ERROR - Article failed: https://civilica.com/doc/1926367/ - 
+2025-07-21 09:33:52,879 - ERROR - Article failed: https://civilica.com/doc/1926349/ - 
+2025-07-21 09:33:52,879 - ERROR - Article failed: https://civilica.com/doc/1926312/ - 
+2025-07-21 09:33:52,879 - ERROR - Article failed: https://civilica.com/doc/1926293/ - 
+2025-07-21 09:33:52,880 - ERROR - Article failed: https://civilica.com/doc/1926378/ - 
+2025-07-21 09:33:52,880 - ERROR - Article failed: https://civilica.com/doc/1926362/ - 
+2025-07-21 09:33:52,880 - ERROR - Article failed: https://civilica.com/doc/1926382/ - 
+2025-07-21 09:33:52,881 - ERROR - Article failed: https://civilica.com/doc/1926304/ - 
+2025-07-21 09:33:52,881 - ERROR - Article failed: https://civilica.com/doc/1926350/ - 
+2025-07-21 09:33:52,881 - ERROR - Article failed: https://civilica.com/doc/1926280/ - 
+2025-07-21 09:33:52,881 - ERROR - Article failed: https://civilica.com/doc/1926300/ - 
+2025-07-21 09:33:52,882 - ERROR - Article failed: https://civilica.com/doc/1926379/ - 
+2025-07-21 09:33:52,882 - ERROR - Article failed: https://civilica.com/doc/1926376/ - 
+2025-07-21 09:33:52,882 - ERROR - Article failed: https://civilica.com/doc/1926281/ - 
+2025-07-21 09:33:52,882 - ERROR - Article failed: https://civilica.com/doc/1926375/ - 
+2025-07-21 09:33:52,882 - ERROR - Article failed: https://civilica.com/doc/1926271/ - 
+2025-07-21 09:33:52,883 - ERROR - Article failed: https://civilica.com/doc/1926369/ - 
+2025-07-21 09:33:52,883 - ERROR - Article failed: https://civilica.com/doc/1926322/ - 
+2025-07-21 09:33:52,883 - ERROR - Article failed: https://civilica.com/doc/1926323/ - 
+2025-07-21 09:33:52,883 - ERROR - Article failed: https://civilica.com/doc/1926265/ - 
+2025-07-21 09:33:52,883 - ERROR - Article failed: https://civilica.com/doc/1926356/ - 
+2025-07-21 09:33:52,884 - ERROR - Article failed: https://civilica.com/doc/1926294/ - 
+2025-07-21 09:33:52,884 - ERROR - Article failed: https://civilica.com/doc/1926264/ - 
+2025-07-21 09:33:52,884 - ERROR - Article failed: https://civilica.com/doc/1926276/ - 
+2025-07-21 09:33:52,884 - ERROR - Article failed: https://civilica.com/doc/1926297/ - 
+2025-07-21 09:33:52,884 - ERROR - Article failed: https://civilica.com/doc/1926339/ - 
+2025-07-21 09:33:52,885 - ERROR - Article failed: https://civilica.com/doc/1926384/ - 
+2025-07-21 09:33:53,883 - ERROR - Article failed: https://civilica.com/doc/1900200/ - 
+2025-07-21 09:33:53,883 - ERROR - Article failed: https://civilica.com/doc/1900203/ - 
+2025-07-21 09:33:53,884 - ERROR - Article failed: https://civilica.com/doc/1900229/ - 
+2025-07-21 09:33:53,885 - ERROR - Article failed: https://civilica.com/doc/1900237/ - 
+2025-07-21 09:33:53,885 - ERROR - Article failed: https://civilica.com/doc/1900212/ - 
+2025-07-21 09:33:53,885 - ERROR - Article failed: https://civilica.com/doc/1921152/ - 
+2025-07-21 09:33:53,885 - ERROR - Article failed: https://civilica.com/doc/1900208/ - 
+2025-07-21 09:33:53,886 - ERROR - Article failed: https://civilica.com/doc/1900204/ - 
+2025-07-21 09:33:53,886 - ERROR - Article failed: https://civilica.com/doc/1900206/ - 
+2025-07-21 09:33:53,886 - ERROR - Article failed: https://civilica.com/doc/1900202/ - 
+2025-07-21 09:33:53,887 - ERROR - Article failed: https://civilica.com/doc/1921112/ - 
+2025-07-21 09:33:53,887 - ERROR - Article failed: https://civilica.com/doc/1905225/ - 
+2025-07-21 09:33:53,887 - ERROR - Article failed: https://civilica.com/doc/1900220/ - 
+2025-07-21 09:33:53,887 - ERROR - Article failed: https://civilica.com/doc/1900219/ - 
+2025-07-21 09:33:53,888 - ERROR - Article failed: https://civilica.com/doc/1900192/ - 
+2025-07-21 09:33:53,888 - ERROR - Article failed: https://civilica.com/doc/1900226/ - 
+2025-07-21 09:33:53,888 - ERROR - Article failed: https://civilica.com/doc/1900231/ - 
+2025-07-21 09:33:53,888 - ERROR - Article failed: https://civilica.com/doc/1900232/ - 
+2025-07-21 09:33:53,888 - ERROR - Article failed: https://civilica.com/doc/1905208/ - 
+2025-07-21 09:33:53,889 - ERROR - Article failed: https://civilica.com/doc/1900193/ - 
+2025-07-21 09:33:53,889 - ERROR - Article failed: https://civilica.com/doc/1921132/ - 
+2025-07-21 09:33:53,889 - ERROR - Article failed: https://civilica.com/doc/1921133/ - 
+2025-07-21 09:33:53,889 - ERROR - Article failed: https://civilica.com/doc/1921143/ - 
+2025-07-21 09:33:53,889 - ERROR - Article failed: https://civilica.com/doc/1987149/ - 
+2025-07-21 09:33:53,890 - ERROR - Article failed: https://civilica.com/doc/1905245/ - 
+2025-07-21 09:33:53,890 - ERROR - Article failed: https://civilica.com/doc/1905220/ - 
+2025-07-21 09:33:53,890 - ERROR - Article failed: https://civilica.com/doc/1919806/ - 
+2025-07-21 09:33:53,891 - ERROR - Article failed: https://civilica.com/doc/1953656/ - 
+2025-07-21 09:33:53,891 - ERROR - Article failed: https://civilica.com/doc/1919808/ - 
+2025-07-21 09:33:53,891 - ERROR - Article failed: https://civilica.com/doc/1940290/ - 
+2025-07-21 09:33:53,891 - ERROR - Article failed: https://civilica.com/doc/1905252/ - 
+2025-07-21 09:33:53,892 - ERROR - Article failed: https://civilica.com/doc/1905232/ - 
+2025-07-21 09:33:53,892 - ERROR - Article failed: https://civilica.com/doc/1921141/ - 
+2025-07-21 09:33:53,892 - ERROR - Article failed: https://civilica.com/doc/1921170/ - 
+2025-07-21 09:33:53,892 - ERROR - Article failed: https://civilica.com/doc/1953775/ - 
+2025-07-21 09:33:53,892 - ERROR - Article failed: https://civilica.com/doc/1905236/ - 
+2025-07-21 09:33:53,893 - ERROR - Article failed: https://civilica.com/doc/1905212/ - 
+2025-07-21 09:33:53,893 - ERROR - Article failed: https://civilica.com/doc/1905233/ - 
+2025-07-21 09:33:53,893 - ERROR - Article failed: https://civilica.com/doc/1973916/ - 
+2025-07-21 09:33:53,893 - ERROR - Article failed: https://civilica.com/doc/1953270/ - 
+2025-07-21 09:33:53,894 - ERROR - Article failed: https://civilica.com/doc/1905209/ - 
+2025-07-21 09:33:53,894 - ERROR - Article failed: https://civilica.com/doc/1919809/ - 
+2025-07-21 09:33:53,894 - ERROR - Article failed: https://civilica.com/doc/1953100/ - 
+2025-07-21 09:33:53,894 - ERROR - Article failed: https://civilica.com/doc/1973914/ - 
+2025-07-21 09:33:53,895 - ERROR - Article failed: https://civilica.com/doc/2003486/ - 
+2025-07-21 09:33:53,895 - ERROR - Article failed: https://civilica.com/doc/1905224/ - 
+2025-07-21 09:33:53,895 - ERROR - Article failed: https://civilica.com/doc/2019320/ - 
+2025-07-21 09:33:53,895 - ERROR - Article failed: https://civilica.com/doc/1905222/ - 
+2025-07-21 09:33:53,896 - ERROR - Article failed: https://civilica.com/doc/1905214/ - 
+2025-07-21 09:33:53,896 - ERROR - Article failed: https://civilica.com/doc/1953136/ - 
+2025-07-21 09:33:53,896 - ERROR - Article failed: https://civilica.com/doc/1964845/ - 
+2025-07-21 09:33:53,897 - ERROR - Article failed: https://civilica.com/doc/1955441/ - 
+2025-07-21 09:33:53,897 - ERROR - Article failed: https://civilica.com/doc/1955440/ - 
+2025-07-21 09:33:53,897 - ERROR - Article failed: https://civilica.com/doc/1905238/ - 
+2025-07-21 09:33:53,897 - ERROR - Article failed: https://civilica.com/doc/1953538/ - 
+2025-07-21 09:33:53,897 - ERROR - Article failed: https://civilica.com/doc/1921183/ - 
+2025-07-21 09:33:53,897 - ERROR - Article failed: https://civilica.com/doc/1905213/ - 
+2025-07-21 09:33:53,898 - ERROR - Article failed: https://civilica.com/doc/1905247/ - 
+2025-07-21 09:33:53,898 - ERROR - Article failed: https://civilica.com/doc/1905216/ - 
+2025-07-21 09:33:53,898 - ERROR - Article failed: https://civilica.com/doc/1973915/ - 
+2025-07-21 09:33:53,898 - ERROR - Article failed: https://civilica.com/doc/1953211/ - 
+2025-07-21 09:33:53,899 - ERROR - Article failed: https://civilica.com/doc/1905218/ - 
+2025-07-21 09:33:53,899 - ERROR - Article failed: https://civilica.com/doc/1905228/ - 
+2025-07-21 09:33:53,899 - ERROR - Article failed: https://civilica.com/doc/1905240/ - 
+2025-07-21 09:33:53,899 - ERROR - Article failed: https://civilica.com/doc/1940265/ - 
+2025-07-21 09:33:53,899 - ERROR - Article failed: https://civilica.com/doc/1921169/ - 
+2025-07-21 09:33:53,900 - ERROR - Article failed: https://civilica.com/doc/1953543/ - 
+2025-07-21 09:33:53,900 - ERROR - Article failed: https://civilica.com/doc/1905206/ - 
+2025-07-21 09:33:53,900 - ERROR - Article failed: https://civilica.com/doc/1921156/ - 
+2025-07-21 09:33:53,900 - ERROR - Article failed: https://civilica.com/doc/1905227/ - 
+2025-07-21 09:33:53,900 - ERROR - Article failed: https://civilica.com/doc/1905231/ - 
+2025-07-21 09:33:53,900 - ERROR - Article failed: https://civilica.com/doc/1953627/ - 
+2025-07-21 09:33:53,901 - ERROR - Article failed: https://civilica.com/doc/1905219/ - 
+2025-07-21 09:33:53,901 - ERROR - Article failed: https://civilica.com/doc/1944230/ - 
+2025-07-21 09:33:53,901 - ERROR - Article failed: https://civilica.com/doc/1900209/ - 
+2025-07-21 09:33:53,901 - ERROR - Article failed: https://civilica.com/doc/1905217/ - 
+2025-07-21 09:33:53,901 - ERROR - Article failed: https://civilica.com/doc/1940264/ - 
+2025-07-21 09:33:53,901 - ERROR - Article failed: https://civilica.com/doc/1987148/ - 
+2025-07-21 09:33:53,902 - ERROR - Article failed: https://civilica.com/doc/1905246/ - 
+2025-07-21 09:33:53,902 - ERROR - Article failed: https://civilica.com/doc/1905251/ - 
+2025-07-21 09:33:53,902 - ERROR - Article failed: https://civilica.com/doc/1921127/ - 
+2025-07-21 09:33:53,902 - ERROR - Article failed: https://civilica.com/doc/1905250/ - 
+2025-07-21 09:33:53,903 - ERROR - Article failed: https://civilica.com/doc/1900227/ - 
+2025-07-21 09:33:53,903 - ERROR - Article failed: https://civilica.com/doc/1933652/ - 
+2025-07-21 09:33:53,903 - ERROR - Article failed: https://civilica.com/doc/1905256/ - 
+2025-07-21 09:33:53,903 - ERROR - Article failed: https://civilica.com/doc/1900233/ - 
+2025-07-21 09:33:53,903 - ERROR - Article failed: https://civilica.com/doc/1905226/ - 
+2025-07-21 09:33:53,903 - ERROR - Article failed: https://civilica.com/doc/1905207/ - 
+2025-07-21 09:33:53,904 - ERROR - Article failed: https://civilica.com/doc/1921176/ - 
+2025-07-21 09:33:53,904 - ERROR - Article failed: https://civilica.com/doc/1905210/ - 
+2025-07-21 09:33:53,904 - ERROR - Article failed: https://civilica.com/doc/1900221/ - 
+2025-07-21 09:33:53,904 - ERROR - Article failed: https://civilica.com/doc/1921148/ - 
+2025-07-21 09:33:53,904 - ERROR - Article failed: https://civilica.com/doc/1921146/ - 
+2025-07-21 09:33:53,905 - ERROR - Article failed: https://civilica.com/doc/1921150/ - 
+2025-07-21 09:33:53,906 - ERROR - Article failed: https://civilica.com/doc/1921171/ - 
+2025-07-21 09:33:53,906 - ERROR - Article failed: https://civilica.com/doc/1921177/ - 
+2025-07-21 09:33:53,906 - ERROR - Article failed: https://civilica.com/doc/1921167/ - 
+2025-07-21 09:33:53,906 - ERROR - Article failed: https://civilica.com/doc/2238349/ - 
+2025-07-21 09:33:53,906 - ERROR - Article failed: https://civilica.com/doc/1921165/ - 
+2025-07-21 09:33:53,906 - ERROR - Article failed: https://civilica.com/doc/1900194/ - 
+2025-07-21 09:33:53,907 - ERROR - Article failed: https://civilica.com/doc/1921162/ - 
+2025-07-21 09:33:53,907 - ERROR - Article failed: https://civilica.com/doc/1921157/ - 
+2025-07-21 09:33:53,907 - ERROR - Article failed: https://civilica.com/doc/1921108/ - 
+2025-07-21 09:33:53,907 - ERROR - Article failed: https://civilica.com/doc/1900199/ - 
+2025-07-21 09:33:53,907 - ERROR - Article failed: https://civilica.com/doc/1921172/ - 
+2025-07-21 09:33:53,907 - ERROR - Article failed: https://civilica.com/doc/2050022/ - 
+2025-07-21 09:33:53,908 - ERROR - Article failed: https://civilica.com/doc/1921181/ - 
+2025-07-21 09:33:53,908 - ERROR - Article failed: https://civilica.com/doc/1900238/ - 
+2025-07-21 09:33:53,908 - ERROR - Article failed: https://civilica.com/doc/1921134/ - 
+2025-07-21 09:33:53,908 - ERROR - Article failed: https://civilica.com/doc/1921121/ - 
+2025-07-21 09:33:53,908 - ERROR - Article failed: https://civilica.com/doc/2238348/ - 
+2025-07-21 09:33:53,908 - ERROR - Article failed: https://civilica.com/doc/1921126/ - 
+2025-07-21 09:33:53,909 - ERROR - Article failed: https://civilica.com/doc/1921120/ - 
+2025-07-21 09:33:53,909 - ERROR - Article failed: https://civilica.com/doc/1921142/ - 
+2025-07-21 09:33:53,909 - ERROR - Article failed: https://civilica.com/doc/1921136/ - 
+2025-07-21 09:33:53,909 - ERROR - Article failed: https://civilica.com/doc/1921139/ - 
+2025-07-21 09:33:53,909 - ERROR - Article failed: https://civilica.com/doc/1921138/ - 
+2025-07-21 09:33:53,910 - ERROR - Article failed: https://civilica.com/doc/1921160/ - 
+2025-07-21 09:33:53,910 - ERROR - Article failed: https://civilica.com/doc/1921161/ - 
+2025-07-21 09:33:53,910 - ERROR - Article failed: https://civilica.com/doc/1921125/ - 
+2025-07-21 09:33:53,910 - ERROR - Article failed: https://civilica.com/doc/1921182/ - 
+2025-07-21 09:33:53,910 - ERROR - Article failed: https://civilica.com/doc/1921113/ - 
+2025-07-21 09:33:53,910 - ERROR - Article failed: https://civilica.com/doc/1921155/ - 
+2025-07-21 09:33:53,910 - ERROR - Article failed: https://civilica.com/doc/1921144/ - 
+2025-07-21 09:33:53,911 - ERROR - Article failed: https://civilica.com/doc/1921131/ - 
+2025-07-21 09:33:53,911 - ERROR - Article failed: https://civilica.com/doc/1921145/ - 
+2025-07-21 09:33:53,911 - ERROR - Article failed: https://civilica.com/doc/1921118/ - 
+2025-07-21 09:33:53,911 - ERROR - Article failed: https://civilica.com/doc/1921128/ - 
+2025-07-21 09:33:53,911 - ERROR - Article failed: https://civilica.com/doc/1921115/ - 
+2025-07-21 09:33:53,911 - ERROR - Article failed: https://civilica.com/doc/1921158/ - 
+2025-07-21 09:33:53,911 - ERROR - Article failed: https://civilica.com/doc/1921180/ - 
+2025-07-21 09:33:53,912 - ERROR - Article failed: https://civilica.com/doc/1953897/ - 
+2025-07-21 09:33:53,912 - ERROR - Article failed: https://civilica.com/doc/1953561/ - 
+2025-07-21 09:33:53,912 - ERROR - Article failed: https://civilica.com/doc/1953844/ - 
+2025-07-21 09:33:53,912 - ERROR - Article failed: https://civilica.com/doc/1953316/ - 
+2025-07-21 09:33:53,912 - ERROR - Article failed: https://civilica.com/doc/1953198/ - 
+2025-07-21 09:33:53,912 - ERROR - Article failed: https://civilica.com/doc/1953395/ - 
+2025-07-21 09:33:53,912 - ERROR - Article failed: https://civilica.com/doc/1953576/ - 
+2025-07-21 09:33:53,913 - ERROR - Article failed: https://civilica.com/doc/1953578/ - 
+2025-07-21 09:33:53,913 - ERROR - Article failed: https://civilica.com/doc/1953459/ - 
+2025-07-21 09:33:53,913 - ERROR - Article failed: https://civilica.com/doc/1953593/ - 
+2025-07-21 09:33:53,913 - ERROR - Article failed: https://civilica.com/doc/1953084/ - 
+2025-07-21 09:33:53,913 - ERROR - Article failed: https://civilica.com/doc/1953693/ - 
+2025-07-21 09:33:53,913 - ERROR - Article failed: https://civilica.com/doc/1953099/ - 
+2025-07-21 09:33:53,914 - ERROR - Article failed: https://civilica.com/doc/1953567/ - 
+2025-07-21 09:33:53,914 - ERROR - Article failed: https://civilica.com/doc/1953101/ - 
+2025-07-21 09:33:53,914 - ERROR - Article failed: https://civilica.com/doc/1953827/ - 
+2025-07-21 09:33:53,914 - ERROR - Article failed: https://civilica.com/doc/1953886/ - 
+2025-07-21 09:33:53,915 - ERROR - Article failed: https://civilica.com/doc/1953417/ - 
+2025-07-21 09:33:53,915 - ERROR - Article failed: https://civilica.com/doc/1953163/ - 
+2025-07-21 09:33:53,915 - ERROR - Article failed: https://civilica.com/doc/1953152/ - 
+2025-07-21 09:33:53,915 - ERROR - Article failed: https://civilica.com/doc/1953097/ - 
+2025-07-21 09:33:53,915 - ERROR - Article failed: https://civilica.com/doc/1953519/ - 
+2025-07-21 09:33:53,915 - ERROR - Article failed: https://civilica.com/doc/1953801/ - 
+2025-07-21 09:33:53,915 - ERROR - Article failed: https://civilica.com/doc/1953134/ - 
+2025-07-21 09:33:53,916 - ERROR - Article failed: https://civilica.com/doc/1953473/ - 
+2025-07-21 09:33:53,916 - ERROR - Article failed: https://civilica.com/doc/1953448/ - 
+2025-07-21 09:33:53,916 - ERROR - Article failed: https://civilica.com/doc/1953254/ - 
+2025-07-21 09:33:53,916 - ERROR - Article failed: https://civilica.com/doc/1953674/ - 
+2025-07-21 09:33:53,916 - ERROR - Article failed: https://civilica.com/doc/1953415/ - 
+2025-07-21 09:33:53,916 - ERROR - Article failed: https://civilica.com/doc/1953891/ - 
+2025-07-21 09:33:53,916 - ERROR - Article failed: https://civilica.com/doc/1953274/ - 
+2025-07-21 09:33:53,917 - ERROR - Article failed: https://civilica.com/doc/1953880/ - 
+2025-07-21 09:33:53,917 - ERROR - Article failed: https://civilica.com/doc/1953400/ - 
+2025-07-21 09:33:53,917 - ERROR - Article failed: https://civilica.com/doc/1953947/ - 
+2025-07-21 09:33:53,917 - ERROR - Article failed: https://civilica.com/doc/1953629/ - 
+2025-07-21 09:33:53,918 - ERROR - Article failed: https://civilica.com/doc/1953279/ - 
+2025-07-21 09:33:53,918 - ERROR - Article failed: https://civilica.com/doc/1953162/ - 
+2025-07-21 09:33:53,918 - ERROR - Article failed: https://civilica.com/doc/1953643/ - 
+2025-07-21 09:33:53,918 - ERROR - Article failed: https://civilica.com/doc/1953334/ - 
+2025-07-21 09:33:53,918 - ERROR - Article failed: https://civilica.com/doc/1953806/ - 
+2025-07-21 09:33:53,918 - ERROR - Article failed: https://civilica.com/doc/1953699/ - 
+2025-07-21 09:33:53,919 - ERROR - Article failed: https://civilica.com/doc/1900207/ - 
+2025-07-21 09:33:53,919 - ERROR - Article failed: https://civilica.com/doc/1900205/ - 
+2025-07-21 09:33:53,919 - ERROR - Article failed: https://civilica.com/doc/1900234/ - 
+2025-07-21 09:33:53,919 - ERROR - Article failed: https://civilica.com/doc/1900225/ - 
+2025-07-21 09:33:53,920 - ERROR - Article failed: https://civilica.com/doc/1900216/ - 
+2025-07-21 09:33:53,920 - ERROR - Article failed: https://civilica.com/doc/1921137/ - 
+2025-07-21 09:33:53,920 - ERROR - Article failed: https://civilica.com/doc/1900223/ - 
+2025-07-21 09:33:53,920 - ERROR - Article failed: https://civilica.com/doc/1900230/ - 
+2025-07-21 09:33:53,920 - ERROR - Article failed: https://civilica.com/doc/1900217/ - 
+2025-07-21 09:33:53,921 - ERROR - Article failed: https://civilica.com/doc/1900214/ - 
+2025-07-21 09:33:53,921 - ERROR - Article failed: https://civilica.com/doc/1900228/ - 
+2025-07-21 09:33:53,922 - ERROR - Article failed: https://civilica.com/doc/1900236/ - 
+2025-07-21 09:33:53,922 - ERROR - Article failed: https://civilica.com/doc/1900235/ - 
+2025-07-21 09:33:53,922 - ERROR - Article failed: https://civilica.com/doc/1900218/ - 
+2025-07-21 09:33:53,922 - ERROR - Article failed: https://civilica.com/doc/1900222/ - 
+2025-07-21 09:33:53,923 - ERROR - Article failed: https://civilica.com/doc/1900211/ - 
+2025-07-21 09:33:53,923 - ERROR - Article failed: https://civilica.com/doc/1900210/ - 
+2025-07-21 09:33:53,923 - ERROR - Article failed: https://civilica.com/doc/1900215/ - 
+2025-07-21 09:33:53,923 - ERROR - Article failed: https://civilica.com/doc/1900213/ - 
+2025-07-21 09:33:53,923 - ERROR - Article failed: https://civilica.com/doc/1900241/ - 
+2025-07-21 09:33:53,924 - ERROR - Article failed: https://civilica.com/doc/1900240/ - 
+2025-07-21 09:33:53,924 - ERROR - Article failed: https://civilica.com/doc/1900196/ - 
+2025-07-21 09:33:53,924 - ERROR - Article failed: https://civilica.com/doc/1900198/ - 
+2025-07-21 09:33:53,924 - ERROR - Article failed: https://civilica.com/doc/1900195/ - 
+2025-07-21 09:33:53,925 - ERROR - Article failed: https://civilica.com/doc/1900239/ - 
+2025-07-21 09:33:53,925 - ERROR - Article failed: https://civilica.com/doc/1900197/ - 
+2025-07-21 09:33:53,925 - ERROR - Article failed: https://civilica.com/doc/1900242/ - 
+2025-07-21 09:33:53,925 - ERROR - Article failed: https://civilica.com/doc/1900201/ - 
+2025-07-21 09:33:54,874 - ERROR - Article failed: https://civilica.com/doc/1896976/ - 
+2025-07-21 09:33:54,875 - ERROR - Article failed: https://civilica.com/doc/1896882/ - 
+2025-07-21 09:33:54,875 - ERROR - Article failed: https://civilica.com/doc/1896887/ - 
+2025-07-21 09:33:54,876 - ERROR - Article failed: https://civilica.com/doc/1896892/ - 
+2025-07-21 09:33:54,876 - ERROR - Article failed: https://civilica.com/doc/1896950/ - 
+2025-07-21 09:33:54,876 - ERROR - Article failed: https://civilica.com/doc/1896917/ - 
+2025-07-21 09:33:54,877 - ERROR - Article failed: https://civilica.com/doc/1896912/ - 
+2025-07-21 09:33:54,878 - ERROR - Article failed: https://civilica.com/doc/1896871/ - 
+2025-07-21 09:33:54,879 - ERROR - Article failed: https://civilica.com/doc/1896879/ - 
+2025-07-21 09:33:54,879 - ERROR - Article failed: https://civilica.com/doc/1896973/ - 
+2025-07-21 09:33:54,879 - ERROR - Article failed: https://civilica.com/doc/1896924/ - 
+2025-07-21 09:33:54,880 - ERROR - Article failed: https://civilica.com/doc/1896925/ - 
+2025-07-21 09:33:54,880 - ERROR - Article failed: https://civilica.com/doc/1896964/ - 
+2025-07-21 09:33:54,880 - ERROR - Article failed: https://civilica.com/doc/1896888/ - 
+2025-07-21 09:33:54,880 - ERROR - Article failed: https://civilica.com/doc/1896890/ - 
+2025-07-21 09:33:54,880 - ERROR - Article failed: https://civilica.com/doc/1896916/ - 
+2025-07-21 09:33:54,881 - ERROR - Article failed: https://civilica.com/doc/1896918/ - 
+2025-07-21 09:33:54,881 - ERROR - Article failed: https://civilica.com/doc/1896889/ - 
+2025-07-21 09:33:54,881 - ERROR - Article failed: https://civilica.com/doc/1896941/ - 
+2025-07-21 09:33:54,881 - ERROR - Article failed: https://civilica.com/doc/1896881/ - 
+2025-07-21 09:33:54,882 - ERROR - Article failed: https://civilica.com/doc/1896963/ - 
+2025-07-21 09:33:54,882 - ERROR - Article failed: https://civilica.com/doc/1896949/ - 
+2025-07-21 09:33:54,882 - ERROR - Article failed: https://civilica.com/doc/1896897/ - 
+2025-07-21 09:33:54,882 - ERROR - Article failed: https://civilica.com/doc/1896919/ - 
+2025-07-21 09:33:54,882 - ERROR - Article failed: https://civilica.com/doc/1896959/ - 
+2025-07-21 09:33:54,883 - ERROR - Article failed: https://civilica.com/doc/1896921/ - 
+2025-07-21 09:33:54,883 - ERROR - Article failed: https://civilica.com/doc/1896930/ - 
+2025-07-21 09:33:54,883 - ERROR - Article failed: https://civilica.com/doc/1896944/ - 
+2025-07-21 09:33:54,883 - ERROR - Article failed: https://civilica.com/doc/1896902/ - 
+2025-07-21 09:33:54,883 - ERROR - Article failed: https://civilica.com/doc/1896865/ - 
+2025-07-21 09:33:54,884 - ERROR - Article failed: https://civilica.com/doc/1896866/ - 
+2025-07-21 09:33:54,884 - ERROR - Article failed: https://civilica.com/doc/1896932/ - 
+2025-07-21 09:33:54,884 - ERROR - Article failed: https://civilica.com/doc/1896937/ - 
+2025-07-21 09:33:54,884 - ERROR - Article failed: https://civilica.com/doc/1896931/ - 
+2025-07-21 09:33:54,884 - ERROR - Article failed: https://civilica.com/doc/1896953/ - 
+2025-07-21 09:33:54,885 - ERROR - Article failed: https://civilica.com/doc/1896965/ - 
+2025-07-21 09:33:54,885 - ERROR - Article failed: https://civilica.com/doc/1896880/ - 
+2025-07-21 09:33:54,885 - ERROR - Article failed: https://civilica.com/doc/1896920/ - 
+2025-07-21 09:33:54,885 - ERROR - Article failed: https://civilica.com/doc/1896915/ - 
+2025-07-21 09:33:54,885 - ERROR - Article failed: https://civilica.com/doc/1896945/ - 
+2025-07-21 09:33:54,885 - ERROR - Article failed: https://civilica.com/doc/1896922/ - 
+2025-07-21 09:33:54,886 - ERROR - Article failed: https://civilica.com/doc/1896911/ - 
+2025-07-21 09:33:54,886 - ERROR - Article failed: https://civilica.com/doc/1896914/ - 
+2025-07-21 09:33:54,886 - ERROR - Article failed: https://civilica.com/doc/1896907/ - 
+2025-07-21 09:33:54,886 - ERROR - Article failed: https://civilica.com/doc/1896927/ - 
+2025-07-21 09:33:54,886 - ERROR - Article failed: https://civilica.com/doc/1896940/ - 
+2025-07-21 09:33:54,887 - ERROR - Article failed: https://civilica.com/doc/1896970/ - 
+2025-07-21 09:33:54,887 - ERROR - Article failed: https://civilica.com/doc/1896960/ - 
+2025-07-21 09:33:54,887 - ERROR - Article failed: https://civilica.com/doc/1896952/ - 
+2025-07-21 09:33:54,887 - ERROR - Article failed: https://civilica.com/doc/1896886/ - 
+2025-07-21 09:33:55,868 - ERROR - Conference page failed: https://civilica.com/l/133424/pgn-2/ - 
+2025-07-21 09:33:59,877 - ERROR - Conference page failed: https://civilica.com/l/133049/pgn-2/ - 
+2025-07-21 09:33:59,878 - ERROR - Conference page failed: https://civilica.com/l/124377/pgn-2/ - 
+2025-07-21 09:34:01,882 - ERROR - Conference page failed: https://civilica.com/l/124376/pgn-2/ - 
+2025-07-21 09:34:03,872 - ERROR - Conference page failed: https://civilica.com/l/117087/pgn-2/ - 
+2025-07-21 09:34:04,863 - ERROR - Conference page failed: https://civilica.com/l/118619/pgn-2/ - 
+2025-07-21 09:34:04,863 - ERROR - Conference page failed: https://civilica.com/l/124384/pgn-2/ - 
+2025-07-21 09:34:04,863 - ERROR - Conference page failed: https://civilica.com/l/132551/pgn-2/ - 
+2025-07-21 09:34:04,864 - ERROR - Conference page failed: https://civilica.com/l/133048/pgn-2/ - 
+2025-07-21 09:34:05,871 - ERROR - Conference page failed: https://civilica.com/l/133492/pgn-2/ - 
+2025-07-21 09:34:05,875 - INFO - Saved 0 records to civilica_optimized_output_1210_1220.csv
+2025-07-21 09:34:05,881 - INFO - Saved 419 failed URLs to failed_urls_1210_1220.csv
+2025-07-21 09:34:05,882 - INFO - Scraping completed in 35.11 seconds
+2025-07-21 09:34:05,882 - INFO - Processed 2 articles total
+2025-07-21 09:34:05,882 - INFO - Results saved to civilica_optimized_output_1210_1220.csv
+2025-07-21 09:34:21,274 - INFO - Initialized scraper with start=1210, end=1220
+2025-07-21 09:34:21,275 - INFO - Output will be saved to: civilica_optimized_output_1210_1220.csv
+2025-07-21 09:34:21,275 - INFO - Failed URLs will be logged to: failed_urls_1210_1220.csv
+2025-07-21 09:34:21,462 - INFO - Processing 10 conferences from index 1210 to 1220
+2025-07-21 09:34:26,541 - INFO - Processed 10 articles in 5.27 seconds
+2025-07-21 09:34:29,540 - INFO - Processed 20 articles in 8.27 seconds
+2025-07-21 09:34:29,801 - INFO - Processed 30 articles in 8.53 seconds
+2025-07-21 09:34:31,128 - INFO - Processed 40 articles in 9.85 seconds
+2025-07-21 09:34:31,604 - INFO - Processed 50 articles in 10.33 seconds
+2025-07-21 09:34:32,018 - INFO - Processed 60 articles in 10.74 seconds
+2025-07-21 09:34:33,697 - INFO - Processed 70 articles in 12.42 seconds
+2025-07-21 09:34:34,085 - INFO - Processed 80 articles in 12.81 seconds
+2025-07-21 09:34:34,327 - INFO - Processed 90 articles in 13.05 seconds
+2025-07-21 09:34:34,591 - INFO - Processed 100 articles in 13.32 seconds
+2025-07-21 09:34:34,873 - INFO - Processed 110 articles in 13.60 seconds
+2025-07-21 09:34:35,133 - INFO - Processed 120 articles in 13.86 seconds
+2025-07-21 09:34:35,344 - INFO - Processed 130 articles in 14.07 seconds
+2025-07-21 09:34:35,619 - INFO - Processed 140 articles in 14.34 seconds
+2025-07-21 09:34:35,845 - INFO - Processed 150 articles in 14.57 seconds
+2025-07-21 09:34:36,085 - INFO - Processed 160 articles in 14.81 seconds
+2025-07-21 09:34:36,305 - INFO - Processed 170 articles in 15.03 seconds
+2025-07-21 09:34:36,535 - INFO - Processed 180 articles in 15.26 seconds
+2025-07-21 09:34:36,767 - INFO - Processed 190 articles in 15.49 seconds
+2025-07-21 09:34:36,999 - INFO - Processed 200 articles in 15.73 seconds
+2025-07-21 09:34:37,194 - INFO - Processed 210 articles in 15.92 seconds
+2025-07-21 09:34:37,409 - INFO - Processed 220 articles in 16.14 seconds
+2025-07-21 09:34:37,607 - INFO - Processed 230 articles in 16.33 seconds
+2025-07-21 09:34:37,840 - INFO - Processed 240 articles in 16.57 seconds
+2025-07-21 09:34:38,058 - INFO - Processed 250 articles in 16.78 seconds
+2025-07-21 09:34:38,302 - INFO - Processed 260 articles in 17.03 seconds
+2025-07-21 09:34:38,500 - INFO - Processed 270 articles in 17.23 seconds
+2025-07-21 09:34:38,726 - INFO - Processed 280 articles in 17.45 seconds
+2025-07-21 09:34:38,941 - INFO - Processed 290 articles in 17.67 seconds
+2025-07-21 09:34:39,207 - INFO - Processed 300 articles in 17.93 seconds
+2025-07-21 09:34:39,449 - INFO - Processed 310 articles in 18.18 seconds
+2025-07-21 09:34:39,692 - INFO - Processed 320 articles in 18.42 seconds
+2025-07-21 09:34:39,897 - INFO - Processed 330 articles in 18.62 seconds
+2025-07-21 09:34:40,177 - INFO - Processed 340 articles in 18.90 seconds
+2025-07-21 09:34:40,413 - INFO - Processed 350 articles in 19.14 seconds
+2025-07-21 09:34:40,664 - INFO - Processed 360 articles in 19.39 seconds
+2025-07-21 09:34:40,888 - INFO - Processed 370 articles in 19.61 seconds
+2025-07-21 09:34:41,119 - INFO - Processed 380 articles in 19.84 seconds
+2025-07-21 09:34:41,316 - INFO - Processed 390 articles in 20.04 seconds
+2025-07-21 09:34:41,455 - INFO - Saved 0 records to civilica_optimized_output_1210_1220.csv
+2025-07-21 09:34:41,615 - INFO - Processed 400 articles in 20.34 seconds
+2025-07-21 09:34:41,864 - INFO - Processed 410 articles in 20.59 seconds
+2025-07-21 09:34:48,549 - INFO - Processed 420 articles in 27.27 seconds
+2025-07-21 09:34:48,850 - INFO - Processed 430 articles in 27.58 seconds
+2025-07-21 09:34:49,495 - INFO - Processed 440 articles in 28.22 seconds
+2025-07-21 09:34:49,796 - INFO - Processed 450 articles in 28.52 seconds
+2025-07-21 09:34:50,297 - INFO - Processed 460 articles in 29.02 seconds
+2025-07-21 09:34:51,543 - INFO - Processed 470 articles in 30.27 seconds
+2025-07-21 09:34:51,791 - INFO - Processed 480 articles in 30.52 seconds
+2025-07-21 09:34:52,163 - INFO - Processed 490 articles in 30.89 seconds
+2025-07-21 09:34:52,451 - INFO - Processed 500 articles in 31.18 seconds
+2025-07-21 09:34:52,652 - INFO - Processed 510 articles in 31.38 seconds
+2025-07-21 09:34:53,076 - INFO - Processed 520 articles in 31.80 seconds
+2025-07-21 09:34:53,307 - INFO - Processed 530 articles in 32.03 seconds
+2025-07-21 09:34:53,549 - INFO - Processed 540 articles in 32.27 seconds
+2025-07-21 09:34:53,786 - INFO - Processed 550 articles in 32.51 seconds
+2025-07-21 09:34:54,051 - INFO - Processed 560 articles in 32.78 seconds
+2025-07-21 09:34:54,287 - INFO - Processed 570 articles in 33.01 seconds
+2025-07-21 09:34:54,618 - INFO - Processed 580 articles in 33.34 seconds
+2025-07-21 09:34:54,920 - INFO - Processed 590 articles in 33.65 seconds
+2025-07-21 09:34:55,182 - INFO - Processed 600 articles in 33.91 seconds
+2025-07-21 09:34:55,413 - INFO - Processed 610 articles in 34.14 seconds
+2025-07-21 09:34:55,607 - INFO - Saved 0 records to civilica_optimized_output_1210_1220.csv
+2025-07-21 09:34:58,737 - INFO - Processed 620 articles in 37.46 seconds
+2025-07-21 09:35:01,233 - INFO - Processed 630 articles in 39.96 seconds
+2025-07-21 09:35:01,715 - INFO - Processed 640 articles in 40.44 seconds
+2025-07-21 09:35:01,936 - INFO - Processed 650 articles in 40.66 seconds
+2025-07-21 09:35:05,613 - INFO - Processed 660 articles in 44.34 seconds
+2025-07-21 09:35:05,839 - INFO - Processed 670 articles in 44.56 seconds
+2025-07-21 09:35:06,100 - INFO - Processed 680 articles in 44.83 seconds
+2025-07-21 09:35:06,308 - INFO - Processed 690 articles in 45.03 seconds
+2025-07-21 09:35:06,589 - INFO - Processed 700 articles in 45.32 seconds
+2025-07-21 09:35:17,492 - INFO - Processed 710 articles in 56.22 seconds
+2025-07-21 09:35:17,803 - INFO - Processed 720 articles in 56.53 seconds
+2025-07-21 09:35:18,031 - INFO - Processed 730 articles in 56.76 seconds
+2025-07-21 09:35:18,264 - INFO - Processed 740 articles in 56.99 seconds
+2025-07-21 09:35:18,513 - INFO - Processed 750 articles in 57.24 seconds
+2025-07-21 09:35:30,225 - INFO - Processed 760 articles in 68.95 seconds
+2025-07-21 09:35:30,468 - INFO - Processed 770 articles in 69.19 seconds
+2025-07-21 09:35:30,745 - INFO - Processed 780 articles in 69.47 seconds
+2025-07-21 09:35:30,949 - INFO - Processed 790 articles in 69.67 seconds
+2025-07-21 09:35:31,217 - INFO - Processed 800 articles in 69.94 seconds
+2025-07-21 09:35:42,856 - INFO - Processed 810 articles in 81.58 seconds
+2025-07-21 09:35:43,139 - INFO - Processed 820 articles in 81.86 seconds
+2025-07-21 09:35:43,397 - INFO - Processed 830 articles in 82.12 seconds
+2025-07-21 09:35:43,641 - INFO - Processed 840 articles in 82.37 seconds
+2025-07-21 09:35:43,852 - INFO - Processed 850 articles in 82.58 seconds
+2025-07-21 09:35:55,338 - INFO - Processed 860 articles in 94.06 seconds
+2025-07-21 09:35:55,658 - INFO - Processed 870 articles in 94.38 seconds
+2025-07-21 09:35:55,916 - INFO - Processed 880 articles in 94.64 seconds
+2025-07-21 09:35:56,118 - INFO - Processed 890 articles in 94.84 seconds
+2025-07-21 09:35:56,368 - INFO - Processed 900 articles in 95.09 seconds
+2025-07-21 09:36:08,450 - INFO - Processed 910 articles in 107.18 seconds
+2025-07-21 09:36:08,702 - INFO - Processed 920 articles in 107.43 seconds
+2025-07-21 09:36:08,931 - INFO - Processed 930 articles in 107.66 seconds
+2025-07-21 09:36:09,220 - INFO - Processed 940 articles in 107.95 seconds
+2025-07-21 09:36:09,441 - INFO - Processed 950 articles in 108.17 seconds
+2025-07-21 09:36:09,630 - INFO - Saved 0 records to civilica_optimized_output_1210_1220.csv
+2025-07-21 09:36:22,048 - INFO - Processed 960 articles in 120.77 seconds
+2025-07-21 09:36:22,548 - INFO - Processed 970 articles in 121.27 seconds
+2025-07-21 09:36:22,801 - INFO - Processed 980 articles in 121.53 seconds
+2025-07-21 09:36:23,033 - INFO - Processed 990 articles in 121.76 seconds
+2025-07-21 09:36:23,265 - INFO - Processed 1000 articles in 121.99 seconds
+2025-07-21 09:36:34,971 - INFO - Processed 1010 articles in 133.70 seconds
+2025-07-21 09:36:35,325 - INFO - Processed 1020 articles in 134.05 seconds
+2025-07-21 09:36:35,595 - INFO - Processed 1030 articles in 134.32 seconds
+2025-07-21 09:36:35,956 - INFO - Processed 1040 articles in 134.68 seconds
+2025-07-21 09:36:36,198 - INFO - Processed 1050 articles in 134.92 seconds
+2025-07-21 09:36:49,204 - INFO - Processed 1060 articles in 147.93 seconds
+2025-07-21 09:36:49,956 - INFO - Processed 1070 articles in 148.68 seconds
+2025-07-21 09:36:50,175 - INFO - Processed 1080 articles in 148.90 seconds
+2025-07-21 09:36:50,436 - INFO - Processed 1090 articles in 149.16 seconds
+2025-07-21 09:36:50,639 - INFO - Processed 1100 articles in 149.36 seconds
+2025-07-21 09:37:02,396 - INFO - Processed 1110 articles in 161.12 seconds
+2025-07-21 09:37:02,656 - INFO - Processed 1120 articles in 161.38 seconds
+2025-07-21 09:37:02,925 - INFO - Processed 1130 articles in 161.65 seconds
+2025-07-21 09:37:03,176 - INFO - Processed 1140 articles in 161.90 seconds
+2025-07-21 09:37:03,405 - INFO - Processed 1150 articles in 162.13 seconds
+2025-07-21 09:37:15,445 - INFO - Processed 1160 articles in 174.17 seconds
+2025-07-21 09:37:16,084 - INFO - Processed 1170 articles in 174.81 seconds
+2025-07-21 09:37:16,670 - INFO - Processed 1180 articles in 175.40 seconds
+2025-07-21 09:37:17,297 - INFO - Processed 1190 articles in 176.02 seconds
+2025-07-21 09:37:17,573 - INFO - Processed 1200 articles in 176.30 seconds
+2025-07-21 09:37:28,941 - INFO - Processed 1210 articles in 187.67 seconds
+2025-07-21 09:37:29,193 - INFO - Processed 1220 articles in 187.92 seconds
+2025-07-21 09:37:29,452 - INFO - Processed 1230 articles in 188.18 seconds
+2025-07-21 09:37:29,669 - INFO - Processed 1240 articles in 188.39 seconds
+2025-07-21 09:37:29,916 - INFO - Processed 1250 articles in 188.64 seconds
+2025-07-21 09:37:30,043 - INFO - Saved 0 records to civilica_optimized_output_1210_1220.csv
+2025-07-21 09:37:41,409 - INFO - Processed 1260 articles in 200.14 seconds
+2025-07-21 09:37:41,636 - INFO - Processed 1270 articles in 200.36 seconds
+2025-07-21 09:37:41,956 - INFO - Processed 1280 articles in 200.68 seconds
+2025-07-21 09:37:42,276 - INFO - Processed 1290 articles in 201.00 seconds
+2025-07-21 09:37:42,476 - INFO - Processed 1300 articles in 201.20 seconds
+2025-07-21 09:37:53,714 - INFO - Processed 1310 articles in 212.44 seconds
+2025-07-21 09:37:54,005 - INFO - Processed 1320 articles in 212.73 seconds
+2025-07-21 09:37:54,309 - INFO - Processed 1330 articles in 213.03 seconds
+2025-07-21 09:37:54,576 - INFO - Processed 1340 articles in 213.30 seconds
+2025-07-21 09:37:54,838 - INFO - Processed 1350 articles in 213.56 seconds
+2025-07-21 09:38:06,239 - INFO - Processed 1360 articles in 224.96 seconds
+2025-07-21 09:38:06,483 - INFO - Processed 1370 articles in 225.21 seconds
+2025-07-21 09:38:06,905 - INFO - Processed 1380 articles in 225.63 seconds
+2025-07-21 09:38:07,198 - INFO - Processed 1390 articles in 225.92 seconds
+2025-07-21 09:38:07,424 - INFO - Processed 1400 articles in 226.15 seconds
+2025-07-21 09:38:28,866 - ERROR - Article failed: https://civilica.com/doc/1953638/ - 
+2025-07-21 09:38:28,867 - ERROR - Article failed: https://civilica.com/doc/1953232/ - 
+2025-07-21 09:38:28,868 - ERROR - Article failed: https://civilica.com/doc/1953455/ - 
+2025-07-21 09:38:28,869 - ERROR - Article failed: https://civilica.com/doc/1953549/ - 
+2025-07-21 09:38:28,871 - ERROR - Article failed: https://civilica.com/doc/1953541/ - 
+2025-07-21 09:38:28,872 - ERROR - Article failed: https://civilica.com/doc/1953778/ - 
+2025-07-21 09:38:28,873 - ERROR - Article failed: https://civilica.com/doc/1953500/ - 
+2025-07-21 09:38:28,874 - ERROR - Article failed: https://civilica.com/doc/1953496/ - 
+2025-07-21 09:38:28,875 - ERROR - Article failed: https://civilica.com/doc/1953713/ - 
+2025-07-21 09:38:28,876 - ERROR - Article failed: https://civilica.com/doc/1953161/ - 
+2025-07-21 09:38:28,877 - ERROR - Article failed: https://civilica.com/doc/1953406/ - 
+2025-07-21 09:38:28,878 - ERROR - Article failed: https://civilica.com/doc/1953131/ - 
+2025-07-21 09:38:28,879 - ERROR - Article failed: https://civilica.com/doc/1953650/ - 
+2025-07-21 09:38:28,880 - ERROR - Article failed: https://civilica.com/doc/1953107/ - 
+2025-07-21 09:38:28,881 - ERROR - Article failed: https://civilica.com/doc/1953154/ - 
+2025-07-21 09:38:28,881 - ERROR - Article failed: https://civilica.com/doc/1953352/ - 
+2025-07-21 09:38:28,882 - ERROR - Article failed: https://civilica.com/doc/1953741/ - 
+2025-07-21 09:38:28,883 - ERROR - Article failed: https://civilica.com/doc/1953612/ - 
+2025-07-21 09:38:28,884 - ERROR - Article failed: https://civilica.com/doc/1953443/ - 
+2025-07-21 09:38:28,885 - ERROR - Article failed: https://civilica.com/doc/1953464/ - 
+2025-07-21 09:38:28,885 - ERROR - Article failed: https://civilica.com/doc/1953293/ - 
+2025-07-21 09:38:28,886 - ERROR - Article failed: https://civilica.com/doc/1953535/ - 
+2025-07-21 09:38:28,887 - ERROR - Article failed: https://civilica.com/doc/1953819/ - 
+2025-07-21 09:38:28,888 - ERROR - Article failed: https://civilica.com/doc/1953953/ - 
+2025-07-21 09:38:28,888 - ERROR - Article failed: https://civilica.com/doc/1953376/ - 
+2025-07-21 09:38:28,889 - ERROR - Article failed: https://civilica.com/doc/1953631/ - 
+2025-07-21 09:38:28,891 - ERROR - Article failed: https://civilica.com/doc/1953958/ - 
+2025-07-21 09:38:28,891 - ERROR - Article failed: https://civilica.com/doc/1953633/ - 
+2025-07-21 09:38:28,892 - ERROR - Article failed: https://civilica.com/doc/1953301/ - 
+2025-07-21 09:38:28,893 - ERROR - Article failed: https://civilica.com/doc/1953271/ - 
+2025-07-21 09:38:28,894 - ERROR - Article failed: https://civilica.com/doc/1953941/ - 
+2025-07-21 09:38:28,894 - ERROR - Article failed: https://civilica.com/doc/1953202/ - 
+2025-07-21 09:38:28,895 - ERROR - Article failed: https://civilica.com/doc/1953511/ - 
+2025-07-21 09:38:28,895 - ERROR - Article failed: https://civilica.com/doc/1953255/ - 
+2025-07-21 09:38:28,896 - ERROR - Article failed: https://civilica.com/doc/1953201/ - 
+2025-07-21 09:38:28,896 - ERROR - Article failed: https://civilica.com/doc/1953195/ - 
+2025-07-21 09:38:28,896 - ERROR - Article failed: https://civilica.com/doc/1953757/ - 
+2025-07-21 09:38:28,897 - ERROR - Article failed: https://civilica.com/doc/1953321/ - 
+2025-07-21 09:38:28,897 - ERROR - Article failed: https://civilica.com/doc/1953204/ - 
+2025-07-21 09:38:28,897 - ERROR - Article failed: https://civilica.com/doc/1953865/ - 
+2025-07-21 09:38:28,898 - ERROR - Article failed: https://civilica.com/doc/1953698/ - 
+2025-07-21 09:38:28,898 - ERROR - Article failed: https://civilica.com/doc/1953186/ - 
+2025-07-21 09:38:28,899 - ERROR - Article failed: https://civilica.com/doc/1953795/ - 
+2025-07-21 09:38:28,899 - ERROR - Article failed: https://civilica.com/doc/1953244/ - 
+2025-07-21 09:38:28,899 - ERROR - Article failed: https://civilica.com/doc/1953944/ - 
+2025-07-21 09:38:28,900 - ERROR - Article failed: https://civilica.com/doc/1953922/ - 
+2025-07-21 09:38:28,900 - ERROR - Article failed: https://civilica.com/doc/1953504/ - 
+2025-07-21 09:38:28,900 - ERROR - Article failed: https://civilica.com/doc/1953847/ - 
+2025-07-21 09:38:28,901 - ERROR - Article failed: https://civilica.com/doc/1953320/ - 
+2025-07-21 09:38:28,901 - ERROR - Article failed: https://civilica.com/doc/1953445/ - 
+2025-07-21 09:38:37,783 - INFO - Saved 0 records to civilica_optimized_output_1210_1220.csv
+2025-07-21 09:38:37,786 - INFO - Saved 50 failed URLs to failed_urls_1210_1220.csv
+2025-07-21 09:38:37,786 - INFO - Scraping completed in 256.51 seconds
+2025-07-21 09:38:37,786 - INFO - Processed 1406 articles total
+2025-07-21 09:38:37,787 - INFO - Results saved to civilica_optimized_output_1210_1220.csv

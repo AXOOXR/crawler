@@ -25,9 +25,9 @@ DEFAULT_FILTERED_CSV = 'filtered_conference_ids.csv'
 OUTPUT_CSV_PREFIX = 'civilica_optimized_output'
 FAILED_URLS_LOG_PREFIX = 'failed_urls'
 MAX_WORKERS = 32
-REQUEST_TIMEOUT = 10
-MAX_RETRIES = 3
-REQUEST_DELAY = (0.1, 0.3)
+REQUEST_TIMEOUT = 15
+MAX_RETRIES = 5
+REQUEST_DELAY = (0.5, 1)
 SAVE_EVERY = 300
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
