@@ -11,6 +11,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.edge.service import Service as EdgeService
+from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.chrome.options import Options as ChromeOptions
 from selenium.webdriver.edge.options import Options
 from selenium.common.exceptions import TimeoutException, NoSuchElementException, WebDriverException
 import threading
@@ -75,17 +77,19 @@ def save_partial_results():
                     writer.writerow(row)
             result_rows.clear()
 
-def init_driver() -> webdriver.Edge:
-    options = Options()
+
+def init_driver() -> webdriver.Chrome:
+    options = ChromeOptions()
     if args.headless:
-        options.add_argument('--headless')
+        options.add_argument('--headless=new')
     options.add_argument('--disable-gpu')
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
     options.add_argument('window-size=1920,1080')
     options.add_argument('user-agent=Mozilla/5.0')
-    service = EdgeService(executable_path=args.driver)
-    driver = webdriver.Edge(service=service, options=options)
+
+    service = ChromeService()  # Assumes `chromedriver` is in PATH
+    driver = webdriver.Chrome(service=service, options=options)
     driver.set_page_load_timeout(args.timeout)
     return driver
 
@@ -222,10 +226,6 @@ def main():
 
     if os.path.exists(args.output):
         os.remove(args.output)
-        
-    if not subset:
-        logging.warning('No valid conference IDs found in the selected index range.')
-    return
 
     if args.parallel:
         with ThreadPoolExecutor(max_workers=args.workers) as pool:
